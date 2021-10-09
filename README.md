@@ -1,5 +1,5 @@
 # Laravel with DataTables pagination
-Basic exemple project in Laravel 8 using with DataTables and pagination with Server-Side Processing
+Basic exemple project in Laravel 8 using DataTables and pagination with Server-Side Processing
 
 ## Installing dependencies
 `composer install`
