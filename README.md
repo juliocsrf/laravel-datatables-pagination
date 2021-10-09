@@ -11,3 +11,10 @@ Copy .env.example to .env and setup your environment variables
 This command will create the example table (users) and will also populate it with 1000 records for testing.
 
 `php artisan migrate --seed`
+
+## Routes
+This project has only two routes:
+
+"/" - View with DataTables
+
+"/pagination" - Endpoint used by DataTables for get data;
