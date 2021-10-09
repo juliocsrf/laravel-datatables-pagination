@@ -17,4 +17,4 @@ This project has only two routes:
 
 "/" - View with DataTables
 
-"/pagination" - Endpoint used by DataTables for get data;
+"/pagination" - Endpoint used by DataTables for get data
